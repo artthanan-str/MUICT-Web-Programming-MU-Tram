@@ -1,0 +1,42 @@
+#box-background{
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  margin-top: 62px;
+  padding: 20px;
+  background-color: #FFF;
+  flex-basis: 720px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 5px #AAA;
+}
+.text-name{
+  text-align: center;
+}
+
+.box-image{
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+}
+.image-border{
+  border-radius: 90px;
+  width: 180px;
+  height: 180px;
+  margin-bottom: 20px;
+  display: inline-block;
+  float: left;
+  clear: left;
+}
+
+.content-box{
+  background-color: white;
+  width: 730px;
+  height: 150px;
+  border: 3px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 20px;
+  clear: both;
+  padding: 20px;
+}

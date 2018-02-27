@@ -1,0 +1,27 @@
+#map{
+  margin: auto;
+  width: 700px;
+  height: 500px;
+  /*background-image: url("../image/map4.png");*/
+  background-image: url("../image/map/save8.jpg");
+}
+
+.image-tram{
+  width: 700px;
+  height: 500px;
+
+}
+.image_Green{
+  margin-top: -500px;
+  /*background: url("../image/map/green2.png");*/
+}
+
+.image_Blue{
+  margin-top: -500px;
+  /*background: url("../image/map/blue2.png");*/
+}
+
+.image_Red{
+  margin-top: -500px;
+  /*background: url("../image/map/red2.png");*/
+}

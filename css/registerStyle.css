@@ -1,0 +1,21 @@
+
+
+.alignCenter {
+  text-align: center;
+}
+
+#textRegister {
+  padding-top: 20px;
+  padding-right: 40%;
+}
+
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 100px;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+}

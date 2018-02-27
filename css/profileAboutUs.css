@@ -1,0 +1,32 @@
+.image-border{
+  border-radius: 75px;
+  width: 170px;
+  height: 150px;
+}
+
+.image-borderWithSpace{
+  border-radius: 75px;
+  width: 170px;
+  height: 150px;
+  margin-left: 86px;
+}
+
+.profileDetail{
+  width: 200px;
+  height: 10px;
+  margin-left: 45px;
+  padding: 10px;
+  background-color: #aaa;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.profileDetailWithSpace{
+  width: 200px;
+  height: 10px;
+  margin-left: 186px;
+  padding: 10px;
+  background-color: #aaa;
+  border-radius: 25px;
+  text-align: center;
+}

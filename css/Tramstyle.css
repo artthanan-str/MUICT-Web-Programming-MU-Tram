@@ -1,0 +1,36 @@
+@keyframes tramblink {
+  0%   {opacity: 1.0}
+  20%  {opacity: 0.2}
+  40%  {opacity: 1.0}
+  100% {opacity: 1.0}
+}
+
+.object_Green, .object_Blue, .object_Red, .object_Yellow{
+  width: 20px;
+  height: 20px;
+  animation-name: tramblink;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+
+.image_Green, .image_Blue, .image_Red, .image_Yellow{
+  animation-name: tramblink;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.object_Green{
+  background-color: #AF3;
+}
+.object_Blue{
+  background-color: #49E;
+}
+.object_Red{
+  background-color: #F35;
+}
+.object_Yellow{
+  background-color: #FD3;
+}
